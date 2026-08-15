@@ -40,4 +40,4 @@ Option 1: Web App
 Visit: https://only-beats.netlify.app/
 
 Option 2: Android APK
-Download from GitHub Releases: [Link to Releases]
+Download from GitHub Releases: https://github.com/BinaryC0DE4U/only-beats/blob/main/Only-Beats.apk
