@@ -18,7 +18,7 @@
 
 🔀 Sort Options - Sort by A-Z, Z-A, or Recently Added
 
-
+---
 ### 🛠️ Tech Stack
 
 HTML5
