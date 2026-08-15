@@ -28,9 +28,9 @@ CSS3 (Custom animations & responsive design)
 Vanilla JavaScript
 
 GitHub API (for audio file counting)
+
+
 ---
-
-
 ###📥 Installation
 
 ### Option 1: Web App
