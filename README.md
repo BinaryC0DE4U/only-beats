@@ -37,14 +37,15 @@ GitHub API (for audio file counting)
 📥 Installation
 
 Option 1: Web App
-Visit: https://only-beats.netlify.app/
+https://only-beats.netlify.app/
 
 Option 2: Android APK
-Download from GitHub Releases: https://raw.githubusercontent.com/BinaryC0DE4U/only-beats/main/Only-Beats.apk
+Download from GitHub Releases: 
+https://raw.githubusercontent.com/BinaryC0DE4U/only-beats/main/Only-Beats.apk
 
 Option 3: Scan QR Code to download the APK 
 
-<p align="center">
+<p align="left">
   <img src="qrcode.png" alt="QR Code to download ONLY-BEATS APK" width="150">
   <br>
 </p>
