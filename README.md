@@ -14,10 +14,6 @@
 
 🎨 Dark Theme - Eye-friendly dark interface
 
-🔊 Media Session Controls - Lock screen controls
-
-⏱️ Keep Awake - Prevents screen from sleeping during playback
-
 📊 Total Audio Count - Shows total number of songs
 
 🔀 Sort Options - Sort by A-Z, Z-A, or Recently Added
