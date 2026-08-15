@@ -43,3 +43,4 @@ Option 2: Android APK
 Download from GitHub Releases: https://raw.githubusercontent.com/BinaryC0DE4U/only-beats/main/Only-Beats.apk
 
 Option 3: Scan QR Code
+![QR Code](qrcode.png)
