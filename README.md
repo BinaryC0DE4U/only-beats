@@ -1,4 +1,4 @@
- ### ✨ Features
+ #### ✨ Features
 
 📁 Folder-based Organization - Browse songs by folders/playlists
 
