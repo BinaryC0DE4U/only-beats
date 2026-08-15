@@ -1,4 +1,4 @@
- #### ✨ Features
+ ### ✨ Features
 
 📁 Folder-based Organization - Browse songs by folders/playlists
 
@@ -17,20 +17,21 @@
 📊 Total Audio Count - Shows total number of songs
 
 🔀 Sort Options - Sort by A-Z, Z-A, or Recently Added
+---
 
+### 🛠️ Tech Stack
 
-🛠️ Tech Stack
-
-HTML5
+### HTML5
 
 CSS3 (Custom animations & responsive design)
 
 Vanilla JavaScript
 
 GitHub API (for audio file counting)
+---
 
 
-📥 Installation
+###📥 Installation
 
 ### Option 1: Web App
 Visit: **[ONLY-BEATS Web App](https://only-beats.netlify.app/)**
