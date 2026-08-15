@@ -31,7 +31,7 @@ GitHub API (for audio file counting)
 
 
 ---
-### 📥 Installation
+### Installation
 
 ### Option 1: Web App
 Visit: **[ONLY-BEATS Web App](https://only-beats.netlify.app/)**
