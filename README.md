@@ -1,0 +1,43 @@
+✨ Features
+
+📁 Folder-based Organization - Browse songs by folders/playlists
+
+🔍 Global Search - Search songs across all folders
+
+▶️ Background Playback - Music continues playing even when screen is locked
+
+🎵 Lyrics Support - View synced lyrics for songs
+
+🔄 Auto-Play Next - Automatically plays next song in playlist
+
+📱 Responsive Design - Works on all devices (Mobile, Tablet, Desktop)
+
+🎨 Dark Theme - Eye-friendly dark interface
+
+🔊 Media Session Controls - Lock screen controls
+
+⏱️ Keep Awake - Prevents screen from sleeping during playback
+
+📊 Total Audio Count - Shows total number of songs
+
+🔀 Sort Options - Sort by A-Z, Z-A, or Recently Added
+
+
+🛠️ Tech Stack
+
+HTML5
+
+CSS3 (Custom animations & responsive design)
+
+Vanilla JavaScript
+
+GitHub API (for audio file counting)
+
+
+📥 Installation
+
+Option 1: Web App
+Visit: https://only-beats-web.netlify.app/
+
+Option 2: Android APK
+Download from GitHub Releases: [Link to Releases]
