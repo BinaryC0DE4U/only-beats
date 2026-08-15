@@ -37,7 +37,7 @@ GitHub API (for audio file counting)
 📥 Installation
 
 Option 1: Web App
-Visit: https://only-beats-web.netlify.app/
+Visit: https://only-beats.netlify.app/
 
 Option 2: Android APK
 Download from GitHub Releases: [Link to Releases]
