@@ -42,9 +42,7 @@ Visit: https://only-beats.netlify.app/
 Option 2: Android APK
 Download from GitHub Releases: https://raw.githubusercontent.com/BinaryC0DE4U/only-beats/main/Only-Beats.apk
 
-Option 3: Scan QR Code
-
-Scan the QR code below with your phone's camera to download the APK directly:
+Option 3: Scan QR Code to download the APK 
 
 <p align="center">
   <img src="qrcode.png" alt="QR Code to download ONLY-BEATS APK" width="150">
