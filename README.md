@@ -17,11 +17,11 @@
 📊 Total Audio Count - Shows total number of songs
 
 🔀 Sort Options - Sort by A-Z, Z-A, or Recently Added
----
+
 
 ### 🛠️ Tech Stack
 
-### HTML5
+HTML5
 
 CSS3 (Custom animations & responsive design)
 
