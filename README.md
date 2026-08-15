@@ -49,5 +49,4 @@ Scan the QR code below with your phone's camera to download the APK directly:
 <p align="center">
   <img src="qrcode.png" alt="QR Code to download ONLY-BEATS APK" width="150">
   <br>
-  <em>📱 Scan to download ONLY-BEATS APK</em>
 </p>
